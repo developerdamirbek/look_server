@@ -1,0 +1,208 @@
+{
+    "products": [
+        {
+            "id":"2",
+            "category": "New Products",
+            "products": [
+                {
+                    "id": 100,
+                    "name": "All Natural Makeup Beauty Cosmetics",
+                    "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product1.png",
+                    "price": 11.90
+                },
+                {
+                    "id": 101,
+                    "name": "On Trend Makeup and Beauty Cosmetics",
+                    "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product2.png",
+                    "price": 11.90
+                },
+                {
+                    "id": 102,
+                    "name": "The Cosmetics and Beauty brand Shoppe",
+                    "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product3.png",
+                    "price": 21.51
+                },
+                {
+                    "id": 103,
+                    "name": "orginal Age Defying Cosmetics Makeup",
+                    "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product4.png",
+                    "price": 11.90
+                }
+            ]
+        },
+        {
+            "id":"3",
+            "category": "Onsale",
+            "products": [
+                {
+                    "id": 104,
+                    "name": "All Natural Makeup Beauty Cosmetics",
+                    "image": "https://images.uzum.uz/cf8kquqvtie1lhbhg3l0/original.jpg",
+                    "price": 11.90
+                },
+                {
+                    "id": 105,
+                    "name": "On Trend Makeup and Beauty Cosmetics",
+                    "image": "https://images.uzum.uz/co18goepom4ma10qvpkg/original.jpg",
+                    "price": 11.90
+                },
+                {
+                    "id": 106,
+                    "name": "The Cosmetics and Beauty brand Shoppe",
+                    "image": "https://images.uzum.uz/ciigfgr6edfostiicqeg/original.jpg",
+                    "price": 21.51
+                },
+                {
+                    "id": 107,
+                    "name": "orginal Age Defying Cosmetics Makeup",
+                    "image": "https://images.uzum.uz/cl12n056sfhgee0k64u0/original.jpg",
+                    "price": 11.90
+                }
+            ]
+        },
+        {
+            "id":"4",
+            "category": "Upcoming Products",
+            "products": [
+                {
+                    "id": 108,
+                    "name": "All Natural Makeup Beauty Cosmetics",
+                    "image": "https://images.uzum.uz/co57modlqsilsr3lthfg/original.jpg",
+                    "price": 11.90
+                },
+                {
+                    "id": 109,
+                    "name": "On Trend Makeup and Beauty Cosmetics",
+                    "image": "https://images.uzum.uz/co17g7tlqsilsr3kut00/original.jpg",
+                    "price": 11.90
+                },
+                {
+                    "id": 110,
+                    "name": "The Cosmetics and Beauty brand Shoppe",
+                    "image": "https://images.uzum.uz/co0mn372u18gghclhe00/original.jpg",
+                    "price": 21.51
+                },
+                {
+                    "id": 111,
+                    "name": "orginal Age Defying Cosmetics Makeup",
+                    "image": "https://images.uzum.uz/cm4pqr1s99ouqbfoone0/original.jpg",
+                    "price": 11.90
+                }
+            ]
+        }
+    ],
+    "new":[
+        {
+            "id": 200,
+            "name": "All Natural Makeup Beauty Cosmetics",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product5.png",
+            "price": 11.90
+        },
+        {
+            "id": 201,
+            "name": "On Trend Makeup and Beauty Cosmetics",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product6.png",
+            "price": 11.90
+        },
+        {
+            "id": 202,
+            "name": "The Cosmetics and Beauty brand Shoppe",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product7.png",
+            "price": 21.51
+        },
+        {
+            "id": 203,
+            "name": "orginal Age Defying Cosmetics Makeup",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/products/product8.png",
+            "price": 11.90
+        }
+    ],
+    "brands":[
+        {
+            "id": 300,
+            "name": "Brand 1",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/brands/brand1.png"
+        },
+        {
+            "id": 301,
+            "name": "Brand 2",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/brands/brand2.png"
+        },
+        {
+            "id": 302,
+            "name": "Brand 3",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/brands/brand3.png"
+        },
+        {
+            "id": 303,
+            "name": "Brand 4",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/brands/brand4.png"
+        },
+        {
+            "id": 304,
+            "name": "Brand 5",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/brands/brand5.png"
+        },
+        {
+            "id": 305,
+            "name": "Brand 6",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/brands/brand6.png"
+        }
+    ],
+    "posts": [
+        {
+            "id": 400,
+            "type": "FASHION",
+            "title": "This is first Post For Blog",
+            "potsted_by": "HasTech 12TH Nov 2023",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/posts/post1.png"
+        },
+        {
+            "id": 401,
+            "type": "FASHION",
+            "title": "This is first Post For Blog",
+            "potsted_by": "HasTech 12TH Nov 2023",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/posts/post2.png"
+        },
+        {
+            "id": 402,
+            "type": "FASHION",
+            "title": "This is first Post For Blog",
+            "potsted_by": "HasTech 12TH Nov 2023",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/posts/post3.png"
+        },
+        {
+            "id": 403,
+            "type": "FASHION",
+            "title": "This is first Post For Blog",
+            "potsted_by": "HasTech 12TH Nov 2023",
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/posts/post4.png"
+        }
+    ],
+    "banners": [
+        {
+            "id": 500,
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/banners/banner1.png"
+        },
+        {
+            "id": 501,
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/banners/banner2.png"
+        },
+        {
+            "id": 502,
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/banners/banner3.png"
+        },
+        {
+            "id": 503,
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/banners/banner4.png"
+        },
+        {
+            "id": 504,
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/banners/banner5.png"
+        },
+        {
+            "id": 505,
+            "image": "https://raw.githubusercontent.com/developerdamirbek/look_images/main/banners/banner6.png"
+        }
+    ]
+}
